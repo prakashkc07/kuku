@@ -1,0 +1,6 @@
+# Ignore GitHub metadata folder
+/.github/
+
+# Common ignores
+node_modules/
+.DS_Store
